@@ -134,9 +134,7 @@ My_self/
 1. Push all files to your GitHub repository.  
 2. Go to **Settings → Pages**.  
 3. Under **Source**, select your branch (usually `main`) and choose `/root`.  
-4. Click **Save** — your site will go live at:
-
-
+4. Click **Save** — your site will go live at: (https://sudharsanselvan.github.io/MyPortfolio/)
 
 ---
 
