@@ -1,7 +1,7 @@
 # 🌐 Sudharsanselvan T - Portfolio Website
 
 Welcome to my personal **Portfolio Website**!  
-This site showcases my journey as a **Java Developer & Data Analyst**, featuring my skills, education, certifications, projects, and achievements — all in a clean, responsive HTML/CSS/JS layout.
+This site showcases my journey as a **Java Developer | Data Analyst | AI ML Engineer**, featuring my skills, education, certifications, projects, and achievements — all in a clean, responsive HTML/CSS/JS layout.
 
 ---
 
