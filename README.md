@@ -24,11 +24,17 @@ The site includes:
 My_self/
 │
 ├── profile.html # Main webpage file
+|
 ├── profile.css # Custom styles and responsive design
+|
 ├── script.js # Interactive JavaScript functions
+|
 ├── my_photo.jpg # Personal photo used in header section
+|
 ├── image.jpg # Background/decoration image
+|
 ├── Sudharsan's_resume.pdf # Downloadable resume file
+|
 └── README.md # Project documentation (this file)
 
 
